@@ -1,0 +1,8 @@
+body.swal2-shown.swal2-height-auto{
+    height: 100vh !important;
+}
+
+.swal2-popup.swal2-modal{
+    border-radius: 20px;
+}
+
